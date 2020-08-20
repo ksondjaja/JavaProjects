@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BACImplementation
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BACImplementation\ here.\r\n\r\n\ @author\ Kumalasari\ Sondjaja\r\n\ @version\ March\ 24,\ 2020\r\n
+comment1.params=
+comment1.target=java.lang.String\ getAuthor()
+comment2.params=
+comment2.target=java.lang.String\ getStudentID()
+comment3.params=words
+comment3.target=void\ initializeWordList(java.util.List)
+comment4.params=n
+comment4.target=java.lang.String\ firstGuess(int)
+comment5.params=n\ guesses\ lastbulls\ lastcows\ lastguess
+comment5.target=java.lang.String\ noBullsOrCows(int,\ java.util.List,\ int,\ int,\ java.lang.String)
+comment6.params=lastguess
+comment6.target=void\ removeCowWords(java.lang.String)
+comment7.params=n\ lastguess\ guesses
+comment7.target=java.lang.String\ oneMoreBulls(int,\ java.lang.String,\ java.util.List)
+comment8.params=n\ lastbulls\ lastcows\ lastguess
+comment8.target=void\ findWordsWithLetters(int,\ int,\ int,\ java.lang.String)
+comment9.params=n\ guesses\ bulls\ cows
+comment9.target=java.lang.String\ guess(int,\ java.util.List,\ java.util.List,\ java.util.List)
+numComments=10

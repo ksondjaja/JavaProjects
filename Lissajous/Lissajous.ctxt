@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Lissajous
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lissajous\ here.\r\n\r\n\ @author\ Kumalasari\ Sondjaja\r\n\ @version\ April\ 2,\ 2020\r\n
+comment1.params=size
+comment1.target=Lissajous(int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

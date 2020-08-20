@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BACRunner
+comment1.params=s
+comment1.target=boolean\ acceptable(java.lang.String)
+comment2.params=guess\ secret\ out
+comment2.target=void\ countBullsAndCows(java.lang.String,\ java.lang.String,\ int[])
+comment2.text=\r\n\ Count\ the\ number\ of\ bulls\ and\ cows\ in\ the\ guess\ word\ with\ respect\ to\ the\ secret\ word.\r\n\ You\ might\ want\ to\ call\ this\ method\ from\ your\ player\ code\ instead\ of\ duplicating\ the\r\n\ logic.\ The\ logic\ works\ since\ {@code\ words_alpha.txt}\ uses\ only\ 26\ English\ lowercase\ letters.\r\n\ @param\ guess\ The\ current\ guess\ word.\r\n\ @param\ secret\ The\ secret\ word.\r\n\ @param\ out\ Two-element\ array\ in\ which\ the\ answer\ (bulls,\ cows)\ is\ written.\r\n
+comment3.params=player\ secret\ mercy
+comment3.target=int\ playOneRound(BACPlayer,\ java.lang.String,\ int)
+comment4.params=player
+comment4.target=int\ playBullsAndCows(BACPlayer)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BACPlayer
+comment1.params=
+comment1.target=java.lang.String\ getAuthor()
+comment1.text=\r\n\ Returns\ the\ author\ of\ the\ agent.\r\n\ @return\ The\ author\ as\ a\ string\ of\ form\ "Lastname,\ Firstname".\r\n
+comment2.params=
+comment2.target=java.lang.String\ getStudentID()
+comment2.text=\r\n\ Returns\ the\ student\ ID\ of\ the\ author\ of\ this\ agent.\r\n\ @return\ The\ author's\ student\ ID\ as\ a\ string.\r\n
+comment3.params=words
+comment3.target=void\ initializeWordList(java.util.List)
+comment3.text=\r\n\ This\ method\ is\ called\ exactly\ once\ by\ the\ {@code\ BACRunner}\ engine\ in\ the\ beginning.\ \r\n\ Inside\ this\ method,\ you\ should\ initialize\ whatever\ internal\ data\ structures\ you\ use\r\n\ to\ store\ the\ list\ of\ possible\ words\ to\ speed\ up\ your\ future\ computations.\r\n
+comment4.params=n\ guesses\ bulls\ cows
+comment4.target=java.lang.String\ guess(int,\ java.util.List,\ java.util.List,\ java.util.List)
+comment4.text=\r\n\ Given\ the\ current\ state\ of\ the\ game,\ return\ the\ next\ guess\ by\ the\ player\ agent.\r\n\ @param\ n\ The\ length\ of\ the\ secret\ word.\r\n\ @param\ guesses\ List\ of\ guesses\ done\ so\ far.\ Empty\ list,\ if\ no\ guesses\ have\ been\ made.\r\n\ @param\ bulls\ List\ of\ number\ of\ bulls\ that\ each\ guess\ in\ {@code\ guesses}\ contained.\r\n\ @param\ cows\ List\ of\ number\ of\ cows\ that\ each\ guess\ in\ {@code\ guesses}\ contained.\r\n\ @return\ The\ word\ chosen\ by\ this\ agent\ as\ the\ next\ guess.\r\n
+numComments=5
